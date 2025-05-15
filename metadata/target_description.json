@@ -1,0 +1,14 @@
+[
+    {
+        "Value": "-1",
+        "Meaning": "Phishing/Comportamento Malicioso"
+    },
+    {
+        "Value": "0",
+        "Meaning": "Comportamento Suspeito"
+    },
+    {
+        "Value": "1",
+        "Meaning": "Legítimo/Confiável"
+    }
+]
