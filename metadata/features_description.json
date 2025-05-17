@@ -1,0 +1,66 @@
+[
+    {
+      "Feature": "SFH",
+      "Description": "Server Form Handler (envio de informações pro mesmo domínio)",
+      "-1": "SFH Vazio",
+      "0": "SHF Com outro Domínio",
+      "1": "Qualquer outra coisa"
+    },
+    {
+      "Feature": "SSLfinal_State",
+      "Description": "Validação do SSL (https e emissor confiável)",
+      "-1": "Sem HTTPS",
+      "0": "HTTPS Não Confiável",
+      "1": "HTTPS Confiável"
+    },
+    {
+      "Feature": "popUpWidnow",
+      "Description": "Uso de pop-up window para submeter credenciais",
+      "-1": "Clique Direito desabilitado",
+      "0": "Clique Direito mostra um alerta",
+      "1": "Qualquer outra coisa"
+    },
+    {
+      "Feature": "Request_URL",
+      "Description": "Proporção de recursos externos carregados",
+      "-1": "Maior que 61%",
+      "0": "Entre 22%-61%",
+      "1": "Menor que 22%"
+    },
+    {
+      "Feature": "URL_of_Anchor",
+      "Description": "Proporção de links âncora externos",
+      "-1": "Maior que 67%",
+      "0": "Entre 31%-67%",
+      "1": "Menor que 31%"
+    },
+    {
+      "Feature": "web_traffic",
+      "Description": "Tráfego do site (AlexaDataBase Rank)",
+      "-1": "Sem tráfego",
+      "0": "Rank <= 150k",
+      "1": "Rank > 150k"
+    },
+    {
+      "Feature": "URL_Length",
+      "Description": "Comprimento da URL",
+      "-1": "Maior que 75 caracteres",
+      "0": "Entre 54-75 caracteres",
+      "1": "Menor que 54 caracteres"
+    },
+    {
+      "Feature": "age_of_domain",
+      "Description": "Idade do domínio",
+      "-1": "Menor que 6 meses",
+      "0": "- - - - - - -",
+      "1": "Maior que 6 meses"
+    },
+    {
+      "Feature": "having_IP_Address",
+      "Description": "Presença de endereço IP na URL",
+      "-1": "Com IP",
+      "0": "- - - - - - -",
+      "1": "Sem IP"
+    }
+]
+  
